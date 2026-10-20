@@ -1,2 +1,0 @@
-# Karteikarten
-Karteikarten individuell anpassen
